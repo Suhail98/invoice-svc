@@ -6,6 +6,6 @@
     "test": "node --test"
   },
   "dependencies": {
-    "pdf-stamp": "2.3.4"
+    "pdf-stamp": "2.3.0"
   }
 }
